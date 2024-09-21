@@ -4,3 +4,5 @@ SPECS:
 LO:2100Mhz
 RF:2200-2400Mhz
 IF:100-300Mhz
+
+Designed for JLC04161H-7628 4 layer stackup
